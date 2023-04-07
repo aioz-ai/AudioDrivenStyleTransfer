@@ -1,0 +1,14 @@
+matplotlib
+torch==1.7.0
+tqdm
+rich
+pyyaml
+imageio
+scikit-image==0.17.2
+scipy
+scikit-learn
+pandas
+torchvision
+imageio-ffmpeg
+face_alignment
+moviepy
